@@ -144,4 +144,3 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 **Abdullah Ahmad Khan**
 - 📧 [Abdullah.Ahmad.Khan.Professional@gmail.com](mailto:Abdullah.Ahmad.Khan.Professional@gmail.com)
 - 💻 [github.com/Za-Coding-Paradox](https://github.com/Za-Coding-Paradox)
-- 📍 Faisalabad, Punjab, Pakistan
